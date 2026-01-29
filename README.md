@@ -37,6 +37,9 @@ The simulated market follows a Bristol Stock Exchange–style continuous double-
 
 Reservation values are reassigned at the start of each period to preserve a clear intra-period structure consistent with Smith’s original experimental design.
 
+<img width="3000" height="1800" alt="q2_chart5_reproduction" src="https://github.com/user-attachments/assets/767cc146-fbff-4388-a7c4-cd500f2b6a6a" />
+
+
 ---
 
 ## Experimental Approach
